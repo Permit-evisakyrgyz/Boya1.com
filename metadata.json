@@ -1,0 +1,6 @@
+{
+  "name": "BOYA.COM - Financial Dashboard & Investment Platform",
+  "description": "Premium modern financial dashboard and investment platform with manual USDT deposit/withdrawal approvals, 7 investment tiers, daily returns, referral bonuses, and secure administrative control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

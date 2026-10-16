@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "BOYA.COM Financial Dashboard",
+  "short_name": "BOYA",
+  "description": "BOYA.COM - Premium Financial Dashboard & Investment Platform",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#070d19",
+  "theme_color": "#070d19",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
